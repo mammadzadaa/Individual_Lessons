@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Qt\Projects\Individual_C++\Lesson_19_04_21\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Qt\Projects\Individual_C++\Lesson_19_04_21\Source.cpp(21,1): warning C4010: single-line comment contains line-continuation character
+  Lesson_19_04_21.vcxproj -> C:\Qt\Projects\Individual_C++\Lesson_19_04_21\Debug\Lesson_19_04_21.exe
