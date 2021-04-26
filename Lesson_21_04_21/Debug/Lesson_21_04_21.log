@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Qt\Projects\Individual_C++\Lesson_21_04_21\Source.cpp(17,26): warning C4305: 'initializing': truncation from 'int' to 'unsigned short'
+C:\Qt\Projects\Individual_C++\Lesson_21_04_21\Source.cpp(17,21): warning C4309: 'initializing': truncation of constant value
+C:\Qt\Projects\Individual_C++\Lesson_21_04_21\Source.cpp(10,12): warning C4101: 'n': unreferenced local variable
+C:\Qt\Projects\Individual_C++\Lesson_21_04_21\Source.cpp(8,6): warning C4101: 'num': unreferenced local variable
+  Lesson_21_04_21.vcxproj -> C:\Qt\Projects\Individual_C++\Lesson_21_04_21\Debug\Lesson_21_04_21.exe
